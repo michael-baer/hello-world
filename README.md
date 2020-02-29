@@ -1,2 +1,3 @@
 # hello-world
-GitHub tutorial
+A bit about me...
+I like telling bad jokes and drinking good beer.
